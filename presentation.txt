@@ -1,0 +1,37 @@
+1-Je m'appelle Andry, et je suis enchanté de vous rencontrer aujourd'hui. 
+En tant que développeur web junior, je suis actuellement en stage chez Randevteam Andavamamba. 
+Je suis à la recherche d'une nouvelle opportunité pour mettre en pratique mes compétences 
+et continuer à évoluer professionnellement. Dans mon expérience, j'ai travaillé avec différents frameworks tels que 
+Symfony, CodeIgniter, et Laravel, ainsi qu'avec le CMS Prestashop. 
+Je suis capable de travailler de manière autonome, 
+mais je suis également un atout précieux au sein d'une équipe. 
+En dehors du travail, j'adore jouer à des jeux vidéo et me balader. 
+Je suis enthousiaste à l'idée de discuter de la manière dont 
+je pourrais contribuer à votre entreprise, 
+et je suis prêt à répondre à vos questions. 
+Merci de m'avoir donné l'occasion de me présenter
+
+2-Je ne suis pas sous contrat dans le cadre de mon stage actuel, 
+ce qui signifie que la date de fin dépend de ma décision. 
+Si je décide de quitter mon stage plus tôt, 
+je suis en mesure de négocier cela avec mon responsable de stage.
+Je suis donc prêt à discuter de la meilleure manière de gérer cette transition 
+si l'opportunité que nous discutons aujourd'hui se concrétise."
+
+3-(travaille autonome ) 
+Je suis capable de travailler d'une manière autonome , J'ai eu l'occasion de gérer des projets de bout en bout, 
+ce qui m'a permis de développer des compétences en gestion du temps et en prise de décision autonome.
+J'aime être responsable de la qualité de mon travail et 
+je suis capable de prendre des initiatives pour résoudre des problèmes de manière efficace
+
+4-(travaille en équipe ) 
+J'ai eu plusieurs occasions de travailler avec des  équipe different, 
+En équipe , Je suis ouvert aux idées et aux suggestions des autres membres de l'équipe,
+Je n'hésite pas à partager mes propres idées, 
+Je suis prêt à aider mes collègues lorsque c'est nécessaire et à travailler ensemble pour surmonter les défis.
+
+5-J'ai une expérience significative avec PrestaShop, ayant collaboré sur plusieurs projets 
+où j'ai réalisé les tâches suivantes : la personnalisation de l'affichage en utilisant CSS, 
+des corrections et des ajouts de manipulations JavaScript, des améliorations de fonctionnalités au sein de PrestaShop, 
+la personnalisation et l'adaptation de modules, 
+ainsi que la création et l'utilisation de web services PrestaShop pour la manipulation des données sur les sites PrestaShop.
